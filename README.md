@@ -1,3 +1,3 @@
-# Discord — Template Bot
+# Discord — Template Site.
 
 
